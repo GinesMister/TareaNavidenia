@@ -1,0 +1,6 @@
+{
+  "description": "Tarea navidenia",
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}
