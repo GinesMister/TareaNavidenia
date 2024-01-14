@@ -6,7 +6,7 @@
   "scripts": {
     "test": "",
     "dev": "parcel",
-    "build": "parcel build:"
+    "build": "parcel build"
   },
   "keywords": [],
   "author": "",
